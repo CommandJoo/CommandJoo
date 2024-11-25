@@ -9,9 +9,6 @@ forward to learning things such as WebDevelopment.
 </p>
 <p align="right">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandJoo&size_weight=0.5&count_weight=0.5&theme=dark">
-  </picture>
-  <picture>
-    <img src="[https://github-readme-stats.vercel.app/api?username=CommandJoo&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=CommandJoo&theme=dark">
   </picture>
 </p>
