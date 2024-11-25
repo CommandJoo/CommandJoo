@@ -2,7 +2,7 @@
 My name is Johannes and I am a student living in Germany. I love programming in Java and look
 forward to learning things such as WebDevelopment.
 
-<p width="30%"align="left">
+<p width=425 align="left">
   <picture>
     <img src="/github-metrics.svg" alt="Metrics">
   </picture>
