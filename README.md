@@ -7,7 +7,7 @@ forward to learning things such as WebDevelopment.
     <img src="/github-metrics.svg" alt="Metrics">
   </picture>
 </p>
-<p align="right">
+<p width=350 align="right">
   <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=CommandJoo&theme=dark">
   </picture>
