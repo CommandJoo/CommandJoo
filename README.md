@@ -1,6 +1,6 @@
 # Hi there 👋, I am Johannes
 <p>My name is Johannes and I am a student living in Germany. I love programming in Java and look
-forward to learning things such as WebDevelopment.
+forward to learning more about things like web development.
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&width=435&lines=I+use+arch+btw.">
 <p align="center">
